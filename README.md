@@ -62,9 +62,9 @@ This Power BI project was designed to:
 
 ## 🤝 Contact
 
-**Created by:** [Your Name]  
-📧 Email: [your.email@example.com]  
-🔗 [LinkedIn Profile](https://linkedin.com/in/yourname)  
+**Created by:** [Mk Singh]  
+📧 Email: [mks33120@gmail.com]  
+🔗 [LinkedIn Profile](http://www.linkedin.com/in/motilal-das-42b4a9254)  
 
 ---
 
