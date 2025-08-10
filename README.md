@@ -69,4 +69,5 @@ This Power BI project was designed to:
 ---
 
 > ⭐ If you found this project useful, feel free to **star** the repo or **share** it!
+> Please follow me
 
