@@ -3,7 +3,6 @@
 This repository contains a Power BI dashboard project titled **"[Project Title]"** which provides interactive visual analysis and insights into **[describe your data domain, e.g., Sales, HR, Marketing, Energy Consumption, etc.]**.
 
 ---
-
 ## 📌 Project Description
 
 This Power BI project was designed to:
