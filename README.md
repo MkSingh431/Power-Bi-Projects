@@ -11,7 +11,6 @@ This Power BI project was designed to:
 - Support decision-making through dynamic and user-friendly dashboards
 
 ---
-
 ## 🛠️ Tools & Technologies Used
 
 - **Power BI Desktop**
