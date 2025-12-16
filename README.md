@@ -1,9 +1,10 @@
 # 📊 Power BI Dashboard: 
-[image text](Screenshot 2025-06-18 151409.png)
+![alt text] (Screenshot 2025-06-18 151409.png)
 
 This repository contains a Power BI dashboard project titled **"Techno Sales"** which provides interactive visual analysis and insights into **[describe your data domain, e.g., Sales, HR, Marketing, Energy Consumption, etc.]**.
 
 ---
+  
 ## 📌 Project Description
 
 This Power BI project was designed to:
@@ -39,7 +40,7 @@ This Power BI project was designed to:
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](Assets/dashboard-preview.png)
+![Dashboard Screenshot](Screenshot 2025-06-18 151409.png)
 
 ---
 
