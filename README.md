@@ -1,6 +1,7 @@
 # 📊 Power BI Dashboard: 
+![image text](Screenshot 2025-06-18 151409.png)
 
-This repository contains a Power BI dashboard project titled **"[Project Title]"** which provides interactive visual analysis and insights into **[describe your data domain, e.g., Sales, HR, Marketing, Energy Consumption, etc.]**.
+This repository contains a Power BI dashboard project titled **"Techno Sales"** which provides interactive visual analysis and insights into **[describe your data domain, e.g., Sales, HR, Marketing, Energy Consumption, etc.]**.
 
 ---
 ## 📌 Project Description
